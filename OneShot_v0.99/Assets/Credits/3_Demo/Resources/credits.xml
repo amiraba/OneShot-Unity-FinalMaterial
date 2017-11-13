@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<credits>
+  <credit type="title" data="Credits" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="title" data="Team" data2="" />
+  <credit type="singlecolumn" data="Ben Aissa Mohamed Khalil" data2="" />
+  <credit type="singlecolumn" data="Ben Achour Amira" data2="" />
+  <credit type="singlecolumn" data="Alouane Mohamed Mahdi" data2="" />
+  <credit type="singlecolumn" data="Hbecha Mohamed" data2="" />
+  <credit type="singlecolumn" data="Ben Amor Wassim" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="twocolumns" data="Responsable" data2="Dammak Chema" />
+  <credit type="texture" data="creditsTextureExample" data2="" />
+  <credit type="space" data="2" data2="" />
+  <credit type="title" data="Special Thanks to" data2="" />
+  <credit type="singlecolumn" data="Everyone!" data2="" />
+</credits>

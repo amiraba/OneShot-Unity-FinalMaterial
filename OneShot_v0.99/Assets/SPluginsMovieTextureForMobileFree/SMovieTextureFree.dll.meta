@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d0fae87e651ddfa45a5bcbda9a7e2461
+labels:
+- Splugins
+- MovieTexture
+- Movie
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

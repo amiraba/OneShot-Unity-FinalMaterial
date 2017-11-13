@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Obstacle2level4_2.cs">
+    <Files>
+      <File FileName="Assets\scripts\Obstacle3level2.cs" Line="13" Column="17" />
+      <File FileName="Assets\scripts\ObstacleController.cs" Line="32" Column="21" />
+      <File FileName="Assets\scripts\Obstacle2level2.cs" Line="16" Column="73" />
+      <File FileName="Assets\scripts\Obstaclevel2.cs" Line="4" Column="44" />
+      <File FileName="Assets\scripts\Obstacle3level3.cs" Line="16" Column="72" />
+      <File FileName="Assets\scripts\Obstacle2level3.cs" Line="13" Column="68" />
+      <File FileName="Assets\scripts\Obstacle3_3.cs" Line="15" Column="73" />
+      <File FileName="Assets\scripts\BacteriaController.cs" Line="15" Column="40" />
+      <File FileName="Assets\scripts\Obstacle2level4.cs" Line="10" Column="21" />
+      <File FileName="Assets\scripts\Obstacle2level4_2.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

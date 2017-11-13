@@ -1,0 +1,1473 @@
+fileFormatVersion: 2
+guid: 33cf9a82f8fb40040b8ffbdc4d386667
+timeCreated: 1461170318
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bacteria_0
+    21300002: bacteria_1
+    21300004: bacteria_2
+    21300006: bacteria_3
+    21300008: bacteria_4
+    21300010: bacteria_5
+    21300012: bacteria_6
+    21300014: bacteria_7
+    21300016: bacteria_8
+    21300018: bacteria_9
+    21300020: bacteria_10
+    21300022: bacteria_11
+    21300024: bacteria_12
+    21300026: bacteria_13
+    21300028: bacteria_14
+    21300030: bacteria_15
+    21300032: bacteria_16
+    21300034: bacteria_17
+    21300036: bacteria_18
+    21300038: bacteria_19
+    21300040: bacteria_20
+    21300042: bacteria_21
+    21300044: bacteria_22
+    21300046: bacteria_23
+    21300048: bacteria_24
+    21300050: bacteria_25
+    21300052: bacteria_26
+    21300054: bacteria_27
+    21300056: bacteria_28
+    21300058: bacteria_29
+    21300060: bacteria_30
+    21300062: bacteria_31
+    21300064: bacteria_32
+    21300066: bacteria_33
+    21300068: bacteria_34
+    21300070: bacteria_35
+    21300072: bacteria_36
+    21300074: bacteria_37
+    21300076: bacteria_38
+    21300078: bacteria_39
+    21300080: bacteria_40
+    21300082: bacteria_41
+    21300084: bacteria_42
+    21300086: bacteria_43
+    21300088: bacteria_44
+    21300090: bacteria_45
+    21300092: bacteria_46
+    21300094: bacteria_47
+    21300096: bacteria_48
+    21300098: bacteria_49
+    21300100: bacteria_50
+    21300102: bacteria_51
+    21300104: bacteria_52
+    21300106: bacteria_53
+    21300108: bacteria_54
+    21300110: bacteria_55
+    21300112: bacteria_56
+    21300114: bacteria_57
+    21300116: bacteria_58
+    21300118: bacteria_59
+    21300120: bacteria_60
+    21300122: bacteria_61
+    21300124: bacteria_62
+    21300126: bacteria_63
+    21300128: bacteria_64
+    21300130: bacteria_65
+    21300132: bacteria_66
+    21300134: bacteria_67
+    21300136: bacteria_68
+    21300138: bacteria_69
+    21300140: bacteria_70
+    21300142: bacteria_71
+    21300144: bacteria_72
+    21300146: bacteria_73
+    21300148: bacteria_74
+    21300150: bacteria_75
+    21300152: bacteria_76
+    21300154: bacteria_77
+    21300156: bacteria_78
+    21300158: bacteria_79
+    21300160: bacteria_80
+    21300162: bacteria_81
+    21300164: bacteria_82
+    21300166: bacteria_83
+    21300168: bacteria_84
+    21300170: bacteria_85
+    21300172: bacteria_86
+    21300174: bacteria_87
+    21300176: bacteria_88
+    21300178: bacteria_89
+    21300180: bacteria_90
+    21300182: bacteria_91
+    21300184: bacteria_92
+    21300186: bacteria_93
+    21300188: bacteria_94
+    21300190: bacteria_95
+    21300192: bacteria_96
+    21300194: bacteria_97
+    21300196: bacteria_98
+    21300198: bacteria_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bacteria_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 380
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 13.5}
+    - name: bacteria_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 378
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -5}
+        - {x: 14.5, y: -5}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 4}
+        - {x: 12.5, y: 14}
+        - {x: 7.5, y: 18}
+        - {x: -4.5, y: 18}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: 4.5, y: -18}
+        - {x: 17.5, y: -13}
+        - {x: 19.5, y: -10}
+    - name: bacteria_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 383
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 383
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 393
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 399
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 393
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 393
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 393
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 395
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 391
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_13
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 394
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 337
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 317
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 13.5}
+    - name: bacteria_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 315
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -5}
+        - {x: 14.5, y: -5}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 4}
+        - {x: 12.5, y: 14}
+        - {x: 7.5, y: 18}
+        - {x: -4.5, y: 18}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: 4.5, y: -18}
+        - {x: 17.5, y: -13}
+        - {x: 19.5, y: -10}
+    - name: bacteria_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 320
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 320
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 330
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 336
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 330
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 330
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 330
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 328
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_27
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 331
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 273
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 253
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 13.5}
+    - name: bacteria_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 251
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -5}
+        - {x: 14.5, y: -5}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 4}
+        - {x: 12.5, y: 14}
+        - {x: 7.5, y: 18}
+        - {x: -4.5, y: 18}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: 4.5, y: -18}
+        - {x: 17.5, y: -13}
+        - {x: 19.5, y: -10}
+    - name: bacteria_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 256
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 266
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 272
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_36
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 266
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 266
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 266
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_39
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 268
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_40
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 264
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_41
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 267
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 211
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 210
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 190
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 13.5}
+    - name: bacteria_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 188
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -5}
+        - {x: 14.5, y: -5}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 4}
+        - {x: 12.5, y: 14}
+        - {x: 7.5, y: 18}
+        - {x: -4.5, y: 18}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: 4.5, y: -18}
+        - {x: 17.5, y: -13}
+        - {x: 19.5, y: -10}
+    - name: bacteria_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 193
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_48
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 203
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 209
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 203
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 203
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 203
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_53
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 205
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_54
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 201
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_55
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 204
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 146
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 126
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 13.5}
+    - name: bacteria_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 124
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -5}
+        - {x: 14.5, y: -5}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 4}
+        - {x: 12.5, y: 14}
+        - {x: 7.5, y: 18}
+        - {x: -4.5, y: 18}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: 4.5, y: -18}
+        - {x: 17.5, y: -13}
+        - {x: 19.5, y: -10}
+    - name: bacteria_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 129
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 139
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 145
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_64
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 139
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 139
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_66
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 139
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_67
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 141
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 137
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_69
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 140
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 83
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 13.5}
+    - name: bacteria_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -5}
+        - {x: 14.5, y: -5}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 4}
+        - {x: 12.5, y: 14}
+        - {x: 7.5, y: 18}
+        - {x: -4.5, y: 18}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: 4.5, y: -18}
+        - {x: 17.5, y: -13}
+        - {x: 19.5, y: -10}
+    - name: bacteria_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 76
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_77
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 82
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 76
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_79
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_80
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 76
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_81
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 78
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 74
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_83
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 77
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 4
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 18}
+        - {x: 11, y: 20}
+        - {x: 13, y: 17}
+        - {x: 14, y: 17}
+        - {x: 17, y: 20}
+        - {x: 17, y: 22}
+        - {x: 16, y: 23}
+        - {x: -15, y: 23}
+        - {x: -17, y: 21}
+        - {x: -17, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: 17}
+        - {x: 15, y: 17}
+    - name: bacteria_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 45
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_86
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 18}
+        - {x: 11, y: 20}
+        - {x: 13, y: 17}
+        - {x: 14, y: 17}
+        - {x: 17, y: 20}
+        - {x: 17, y: 22}
+        - {x: 16, y: 23}
+        - {x: -15, y: 23}
+        - {x: -17, y: 21}
+        - {x: -17, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: 17}
+        - {x: 15, y: 17}
+    - name: bacteria_87
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 45
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_88
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 18}
+        - {x: 11, y: 20}
+        - {x: 13, y: 17}
+        - {x: 14, y: 17}
+        - {x: 17, y: 20}
+        - {x: 17, y: 22}
+        - {x: 16, y: 23}
+        - {x: -15, y: 23}
+        - {x: -17, y: 21}
+        - {x: -17, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: 17}
+        - {x: 15, y: 17}
+    - name: bacteria_89
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 45
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_90
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 4
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 18}
+        - {x: 11, y: 20}
+        - {x: 13, y: 17}
+        - {x: 14, y: 17}
+        - {x: 17, y: 20}
+        - {x: 17, y: 22}
+        - {x: 16, y: 23}
+        - {x: -15, y: 23}
+        - {x: -17, y: 21}
+        - {x: -17, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: 17}
+        - {x: 15, y: 17}
+    - name: bacteria_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 45
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_92
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 18}
+        - {x: 11, y: 20}
+        - {x: 13, y: 17}
+        - {x: 14, y: 17}
+        - {x: 17, y: 20}
+        - {x: 17, y: 22}
+        - {x: 16, y: 23}
+        - {x: -15, y: 23}
+        - {x: -17, y: 21}
+        - {x: -17, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: 17}
+        - {x: 15, y: 17}
+    - name: bacteria_93
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 45
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_94
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 18}
+        - {x: 11, y: 20}
+        - {x: 13, y: 17}
+        - {x: 14, y: 17}
+        - {x: 17, y: 20}
+        - {x: 17, y: 22}
+        - {x: 16, y: 23}
+        - {x: -15, y: 23}
+        - {x: -17, y: 21}
+        - {x: -17, y: -23}
+        - {x: 17, y: -23}
+        - {x: 17, y: 17}
+        - {x: 15, y: 17}
+    - name: bacteria_95
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 45
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_97
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 29
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_98
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bacteria_99
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
